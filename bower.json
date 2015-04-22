@@ -1,0 +1,33 @@
+{
+  "name": "3Dmol",
+  "version": "1.0.2",
+  "homepage": "git://github.com/dkoes/3Dmol.js.git",
+  "authors": [
+    "David Koes",
+    "Nick Rego"
+  ],
+  "description": "3Dmol.js is an object-oriented, WebGL based JavaScript library for online molecular visualization",
+  "main": "release/3Dmol-min.js",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "visualization",
+    "protein",
+    "viewer",
+    "javascript",
+    "3D",
+    "OpenGL"
+  ],
+  "devDependencies": {
+  },
+  "license": "BSD",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
